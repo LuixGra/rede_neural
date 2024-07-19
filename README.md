@@ -4,7 +4,10 @@ Atraves dos arquivos, vamos vendo passo a passo como cada parte do codigo final 
 
 cada layer_dense pega os inputs em forma de matriz e tenta dar um chute probabilistico. 
 
-
+DEPENDENCIAS:
+- MATPLOTLIB
+- NNFS
+- NUMPY
 
 
 
